@@ -1,2 +1,4 @@
 # CS-330
 CS-330 Journal
+
+I approach designing software by attempting to get a good understanding of what the software must acheive as a final product, then working towards that functionality.  By working in this project I gained a good understanding of 3d model development and design, as well as a basic understanding of using OpenGL to create 3d scenes.  When working on this project I analyzed the scene I wanted to recreate with 3d models to consider what 3d shapes could be used to represent each object.  Some objects were complex and required multiple simple objects to recreate, such as the mug object that required me to create a cylinder and then attach a half torus to the side to represent the handle of the mug.  The knowledge and understanding I have gained from this project concerning OpenGL and 3d model development / design will benefit me greatly in the future as I plan to work on games and applications with 3d model implementation. 
